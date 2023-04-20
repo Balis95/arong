@@ -1,0 +1,141 @@
+body{
+   
+    padding: 0px !important;
+    margin: 0px !important;
+}
+.navbar{
+    padding: 0px !important;
+    margin: 0px !important;
+   
+}
+
+.dropdown-menu li a{
+    text-decoration: none;
+}
+.co a{
+    color: white;
+    font-size: 15px;
+}
+.text-center{
+    margin-top: 20px !important;
+    font-size: 50px;
+}
+
+.product20{
+    margin-top: 20px !important;
+    height: 100px !important;
+}
+.gh30{
+    margin-top: 580px !important;
+    padding-left: 0px !important;
+}
+.hhg{
+    padding-top: 70px !important;
+    color: white !important;
+    padding-left: 70px !important;
+}
+#carouselExampleSlidesOnly{
+    padding-top: 30px;
+    padding-left: 50px !important;
+}
+.mt{
+    margin-top: 70px !important;
+    margin-bottom: 70px !important;
+}
+.kj p{
+    font-size: 18px !important;
+    color: rgb(77, 75, 75) !important;
+}
+.hh34{
+    margin-top: 70px !important;
+
+}
+.g76{
+    margin-left: 20px !important;
+    height: 400px;
+}
+.g67{
+    margin-top: 80px !important;
+    margin-bottom: 50px !important;
+}
+.bg{
+    height: 1100px !important;
+   
+}
+#stori{
+    padding-top: 80px !important;
+}
+.col-7{
+    padding-top: 40px !important;
+}
+.col-5{
+    margin-top: 40px !important;
+}
+#taaga{
+    padding-left: 40px !important;
+    padding-right: 20px !important;
+    padding-top: 10px !important;
+}
+#taaga a{
+    color: white;
+    font-size: 25px;
+    text-decoration: none;
+    text-align: left !important;
+    font-weight: bold;
+}
+.address23{
+    height: 180px !important;
+    background: whitesmoke !important;
+}
+.y77 address{
+    height: 150px;
+    width: 400px;
+    padding-top: 30px;
+    padding-left:60px;
+}
+.f77 form{
+    
+    padding-top: 30px;
+}
+#staticEmail2{
+    height: 50px !important;
+    width: 300px !important;
+}
+#inputPassword2{
+    height: 50px !important;
+    width: 300px !important;
+}
+.mb-3{
+    height: 50px !important;
+    width: 150px !important;
+    background: black !important;
+}
+.form-check-label{
+    font-size: 20px;
+}
+.mps{
+    background: wheat !important;
+    height: 250px;
+}
+
+.copeee{
+    height: 100px;
+    background: black;
+    padding-top: 25px;
+}
+.iconli{
+    padding-left: 70px !important;
+}
+.iconli ul li{
+    list-style: none;
+    float: left;
+}
+.iconli ul li a{
+    text-decoration: none;
+}
+.appstore{
+    padding-left: 170px !important;
+}
+#socialn{
+    padding-left: 8px !important;
+}
